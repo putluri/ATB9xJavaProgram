@@ -1,4 +1,4 @@
-package Oct.ex_14102024;
+package Oct.ex_14102024_Operators;
 
 public class Lab023 {
     public static void main(String[] args) {
