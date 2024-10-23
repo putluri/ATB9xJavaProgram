@@ -1,0 +1,11 @@
+package Oct.ex_19102024_ForLoop;
+
+public class Lab061 {
+    public static void main(String[] args) {
+        int i = 10;
+        for (; i > 0; i--)
+        {
+            System.out.println(i);
+        }
+    }
+}
