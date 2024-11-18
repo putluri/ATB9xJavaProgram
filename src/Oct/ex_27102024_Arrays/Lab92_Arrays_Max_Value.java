@@ -1,4 +1,4 @@
-package Oct.ex_26102024_Arrays;
+package Oct.ex_27102024_Arrays;
 
 import java.util.Arrays;
 

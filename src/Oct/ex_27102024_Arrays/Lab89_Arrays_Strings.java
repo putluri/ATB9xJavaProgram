@@ -1,4 +1,4 @@
-package Oct.ex_26102024_Arrays;
+package Oct.ex_27102024_Arrays;
 
 public class Lab89_Arrays_Strings {
     public static void main(String[] args) {

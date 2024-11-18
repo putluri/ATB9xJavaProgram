@@ -1,4 +1,4 @@
-package Oct.ex_26102024_Arrays;
+package Oct.ex_27102024_Arrays;
 
 public class Lab91_Arrays_Max_Value_Interviewq {
     public static void main(String[] args) {

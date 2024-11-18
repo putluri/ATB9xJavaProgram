@@ -1,6 +1,5 @@
-package Oct.ex_26102024_Arrays;
+package Oct.ex_27102024_Arrays;
 
-import java.sql.SQLOutput;
 import java.util.Arrays;
 
 public class Lab90_Arrays_Iterate {
