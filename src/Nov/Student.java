@@ -1,4 +1,4 @@
-package Nov.Nov_01112024_OOPs_Constructor;
+package Nov;
 
 public class Student {
     int sid;
