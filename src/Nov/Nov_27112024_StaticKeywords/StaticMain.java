@@ -1,4 +1,4 @@
-package Nov_27112024_StaticKeywords;
+package Nov.Nov_27112024_StaticKeywords;
 
 public class StaticMain {
     public static void main(String[] args) {

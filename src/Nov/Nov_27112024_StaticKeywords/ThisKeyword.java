@@ -1,4 +1,4 @@
-package Nov_27112024_StaticKeywords;
+package Nov.Nov_27112024_StaticKeywords;
 
 public class ThisKeyword {
     int x,y;  // class variables or instance variables

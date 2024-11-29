@@ -1,4 +1,4 @@
-package Nov_27112024_StaticKeywords;
+package Nov.Nov_27112024_StaticKeywords;
 
 public class StaticDemo {
     static int a = 10;  // static variable
